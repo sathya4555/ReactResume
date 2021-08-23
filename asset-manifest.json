@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sathya4555/ReactResume.git/static/css/main.bab0b925.chunk.css",
+    "main.js": "/sathya4555/ReactResume.git/static/js/main.3c75963e.chunk.js",
+    "main.js.map": "/sathya4555/ReactResume.git/static/js/main.3c75963e.chunk.js.map",
+    "runtime-main.js": "/sathya4555/ReactResume.git/static/js/runtime-main.f8a85dc5.js",
+    "runtime-main.js.map": "/sathya4555/ReactResume.git/static/js/runtime-main.f8a85dc5.js.map",
+    "static/js/2.a25c794a.chunk.js": "/sathya4555/ReactResume.git/static/js/2.a25c794a.chunk.js",
+    "static/js/2.a25c794a.chunk.js.map": "/sathya4555/ReactResume.git/static/js/2.a25c794a.chunk.js.map",
+    "static/js/3.37192441.chunk.js": "/sathya4555/ReactResume.git/static/js/3.37192441.chunk.js",
+    "static/js/3.37192441.chunk.js.map": "/sathya4555/ReactResume.git/static/js/3.37192441.chunk.js.map",
+    "index.html": "/sathya4555/ReactResume.git/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/sathya4555/ReactResume.git/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.a25c794a.chunk.js.LICENSE.txt": "/sathya4555/ReactResume.git/static/js/2.a25c794a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8a85dc5.js",
+    "static/js/2.a25c794a.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.3c75963e.chunk.js"
+  ]
+}
